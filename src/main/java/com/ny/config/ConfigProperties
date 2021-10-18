@@ -1,0 +1,20 @@
+URL = https://www.zoopla.co.uk/
+
+userName = kmhaq2018@gmail.com
+textPassword = Akash2018
+
+mac = /Applications/chromedriver
+windows = ./Driver/chromedriver.exe
+
+landing pageTitle = "MyZoopla - Zoopla"
+
+
+
+browser = chrome
+
+IEBrowser = ie
+edgeBrowser = edge
+ChromeBrowser = chrome
+firefox = firefox
+headless = headless
+safari = safari
